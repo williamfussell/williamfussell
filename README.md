@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @williamfussell
-- 👀 I’m interested in ...music, fashion, tennis, writing.
-- 🌱 I’m currently learning ...machine learning, deep learning, distributed training, transformer architecture, vector databases, & prompt engineering.
-- 💞️ I’m looking to collaborate on ...any project inloving the democratization of AI, the creation of tools that will help businesses and their employees utilize AI solutions regardless of their technical backgorund.
+- 👀 I’m interested in ...product design, business, music, philosophy, fashion, tennis, and writing.
+- 🌱 I’m currently studying ...how to leverage machine learning, deep learning, distributed training, transformer architectures, vector databases, & prompt engineering into tangible and profitable business applications and products.
+- 💞️ I’m looking to collaborate on ...any project inloving the democratization of AI, the creation of products that will help businesses and their employees utilize AI solutions regardless of their technical backgorund as well as the crossroads Human Computer Interaction (HCI) and AI.
+- I am passionate about ...changing the way we interact with technology. 
 - 📫 How to reach me... wefussell@gmail.com
 
 <!---
